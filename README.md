@@ -1,5 +1,6 @@
 # mon_app
 
+Applciation simple pour apprendre a developer avec Flutter
 A new Flutter project.
 
 ## Getting Started
